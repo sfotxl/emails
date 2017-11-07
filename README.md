@@ -1,2 +1,1 @@
 # emails
-paypal.me/amstxl
